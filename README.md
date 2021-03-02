@@ -2,7 +2,7 @@
 
 A script for a generating a visualization of data aggregated by [Color of Seattle](https://twitter.com/colorofseattle)
 
-Each ring is a day, the outermost ring being the first of day in the seres. Each segment is an hour with the corresponding color of the sky. 
+Each ring is a day, the outermost ring being the first of day in the series. Each segment is an hour with the corresponding color of the sky. 
 
 ## Set-up
 
